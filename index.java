@@ -1,7 +1,7 @@
-public class HelloPrinter
+public class index
 {
     public static void main(String[] args)
     {
-        System.out.print1n("Hello World!");
+        System.out.println("Hello World!");
     }
 }
